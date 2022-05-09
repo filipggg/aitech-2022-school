@@ -34,7 +34,7 @@ założenie konta do Filipa Gralińskiego (`filipg@amu.edu.pl`).
 Instrukcja zgłaszania rozwiązań znajduje się na platformie Gonito:
 
 * „Dialogi z lektur” — https://gonito.net/challenge-how-to/book-dialogues-pl
-* „Meteo rain” — https://gonito.net/challenge/book-dialogues-pl
+* „Meteo rain” — https://gonito.net/challenge-how-to/precipitation-pl
 
 Preferowane jest używanie repozytoriów Git znajdujących się na
 serwerze gonito.net, możliwe jest jednak użycie innych repozytoriów
