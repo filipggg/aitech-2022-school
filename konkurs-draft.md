@@ -17,6 +17,9 @@ krótkie wprowadzenie do konkursu.
 
 Konkurs zakończy się 23 maja 2022 o godzinie 18:00.
 
+Wyniki konkursu zostaną ogłoszone w ramach Zakończenia Szkoły AI TECH,
+24 maja, godz. 10:00-13:00.
+
 ## Wyzwania
 
 Konkurs obejmuje dwa osobne wyzwania:
