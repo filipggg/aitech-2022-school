@@ -2,15 +2,20 @@
 
 **UWAGA BRUDNOPIS!!!!!**
 
-Szkoła AI Tech 2022 — konkurs uczenia maszynowego
-=================================================
+Szkoła Majowa AI Tech 2022 — konkurs uczenia maszynowego
+========================================================
 
 ## Ramy czasowe
 
-W czasie Szkoły AI Tech 2022 będzie miał miejsce finał konkursu
-uczenia maszynowego. Podczas Szkoły jeden z dni będzie wydzielony na
+W czasie Szkoły AI Tech 2022, będzie miał miejsce finał konkursu
+uczenia maszynowego. Podczas Szkoły jeden z dni (23 maja 2022) będzie wydzielony na
 podejmowanie wyzwań, zgłoszenia można jednak przesyłać już wcześniej,
 nawet przed rozpoczęciem szkoły.
+
+W dniu finału, 23 maja 2022, o godz. 10:15 będzie zorganizowane
+krótkie wprowadzenie do konkursu.
+
+Konkurs zakończy się 23 maja 2022 o godzinie 18:00.
 
 ## Wyzwania
 
@@ -48,7 +53,7 @@ Dodatkowo mogą być przyznane wyróżnienia.
 
 ## Dodatkowe wymagania i ograniczenia
 
-Można zgłaszać maksymalnie 2 rozwiązania na dobę, w czasie finału (w
+Można zgłaszać maksymalnie 2 rozwiązania na dobę, w czasie finału (23 maja 2022, w
 godz. 10:00-18:00) — 2 rozwiązania na godzinę.
 
 Nie wolno korzystać z zewnętrznych zbiorów danych, w szczególności z
